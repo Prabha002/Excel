@@ -2,7 +2,7 @@
 # Project Title: Data Science Job Trends Analysis
 
 # Objective:
-To analyze a dataset of over 32,000 job postings related to data science roles. The goal is to uncover key hiring trends, salary insights, remote work prevalence, skill demands, and job distribution across regions and job types.
+This is a guided project used To analyze a dataset of over 32,000 job postings related to data science roles. The goal is to uncover key hiring trends, salary insights, remote work prevalence, skill demands, and job distribution across regions and job types.
 
 # Problem Statement:
 With the data science field growing rapidly, job seekers and recruiters face difficulty identifying market demands, fair salary expectations, and in-demand skills. This project solves the problem by offering a data-driven overview of the data science job market.
@@ -26,3 +26,6 @@ With the data science field growing rapidly, job seekers and recruiters face dif
 
 # Conclusion:
 This project provides valuable guidance to job seekers, recruiters, and educators in the data science field. By using this data, stakeholders can align their efforts with real-world demand—whether it’s acquiring relevant skills, setting salary expectations, or targeting the right job market.
+
+# Credits
+Thanks to lukebarousse. (Youtube)
