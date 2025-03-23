@@ -28,4 +28,4 @@ With the data science field growing rapidly, job seekers and recruiters face dif
 This project provides valuable guidance to job seekers, recruiters, and educators in the data science field. By using this data, stakeholders can align their efforts with real-world demand—whether it’s acquiring relevant skills, setting salary expectations, or targeting the right job market.
 
 # Credits
-Thanks to lukebarousse. (Youtube)
+Thanks to lukebarousse for helping to create my dashboard using excel. (Youtube)
